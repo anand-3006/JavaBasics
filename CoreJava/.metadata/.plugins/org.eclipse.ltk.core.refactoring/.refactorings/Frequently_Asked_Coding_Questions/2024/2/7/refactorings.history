@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;CountNumberOfDigits.EvenANDOddCoundOfDigits&apos; to &apos;EvenANDOddCountOfDigits&apos;&#x0A;- Original project: &apos;Frequently_Asked_Coding_Questions&apos;&#x0A;- Original element: &apos;CountNumberOfDigits.EvenANDOddCoundOfDigits&apos;&#x0A;- Renamed element: &apos;CountNumberOfDigits.EvenANDOddCountOfDigits&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EvenANDOddCoundOfDigits&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;CountNumberOfDigits{EvenANDOddCoundOfDigits.java[EvenANDOddCoundOfDigits" matchStrategy="1" name="EvenANDOddCountOfDigits" qualified="false" references="true" similarDeclarations="false" stamp="1708182574814" textual="false" version="1.0"/>
+</session>

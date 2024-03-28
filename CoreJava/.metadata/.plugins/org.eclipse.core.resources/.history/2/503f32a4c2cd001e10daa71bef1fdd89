@@ -1,0 +1,14 @@
+package PrimeNumbers;
+import java.util.*;
+public class PrimeOrNot {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter a number");
+		int a = sc.nextInt();
+		if(a / a == 1 && a / 1 == a) {
+			System.out.println("The given number is Prime Number");
+		}else {
+			System.out.println("The given number is not Prime Number");
+		}
+	}
+}

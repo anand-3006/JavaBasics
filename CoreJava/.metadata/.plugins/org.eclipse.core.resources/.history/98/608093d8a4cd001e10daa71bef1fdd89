@@ -1,0 +1,22 @@
+package CountNumberOfDigits;
+import java.util.*;
+public class EvenANDOddCoundOfDigits {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter a number");
+		int a = sc.nextInt();
+		int counta = 0;
+		int countb = 0;
+		while(a > 0) {
+			if(a%2==0) {
+				a = a / 10;
+				counta++;
+			}else {
+				//a = a / 10;
+				countb++;
+			}
+		}
+		System.out.println("The even numbers count is : "+counta);
+		System.out.println("The odd numbers count is : "+countb);
+	}
+}
